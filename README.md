@@ -63,7 +63,7 @@ Markdown
 ### Интерфейс приложения
 
 ```
-![Запуск приложения](https://github.com/user-attachments/assets/d4aef602-4377-4819-a5b8-5f3e8b416d32)
+![Запуск приложения](https://drive.google.com/file/d/1jUDsUZeXDukKJU19pP9EmDQZ_aDAL6IJ/view?usp=sharing)
 
 ```
 
@@ -343,6 +343,7 @@ pip install -r requirements.txt
  Интеграция с OpenAI GPT
  Веб-интерфейс на Streamlit
 ```
+
 
 
 
