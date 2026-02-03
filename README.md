@@ -62,10 +62,9 @@ Markdown
 
 ### Интерфейс приложения
 
-```
+
 ![Запуск приложения](https://drive.google.com/uc?export=view&id=1jUDsUZeXDukKJU19pP9EmDQZ_aDAL6IJ)
 
-```
 
 ---
 
@@ -343,6 +342,7 @@ pip install -r requirements.txt
  Интеграция с OpenAI GPT
  Веб-интерфейс на Streamlit
 ```
+
 
 
 
